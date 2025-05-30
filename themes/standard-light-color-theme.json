@@ -1790,7 +1790,7 @@
       "scope": "comment, punctuation.definition.comment",
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#7f848e"
+        "foreground": "#d3d3d3"
       }
     },
     {
@@ -1849,11 +1849,11 @@
     "focusBorder": "#0090f1",
     "selection.background": "#b0daff",
     "scrollbar.shadow": "#dddddd",
-    "activityBar.foreground": "#ffffff",
-    "activityBar.background": "#2c2c2c",
-    "activityBar.inactiveForeground": "#ffffff66",
+    "activityBar.foreground": "#5a5a5a",
+    "activityBar.background": "#cfcfcf",
+    "activityBar.inactiveForeground": "#67676766",
     "activityBarBadge.foreground": "#ffffff",
-    "activityBarBadge.background": "#007acc",
+    "activityBarBadge.background": "#c83b3b",
     "sideBar.background": "#f3f3f3",
     "sideBar.foreground": "#616161",
     "sideBarSectionHeader.background": "#00000000",
@@ -1875,13 +1875,13 @@
     "listFilterWidget.outline": "#00000000",
     "listFilterWidget.noMatchesOutline": "#be1100",
     "statusBar.foreground": "#ffffff",
-    "statusBar.background": "#007acc",
+    "statusBar.background": "#b0b0b0",
     "statusBarItem.hoverBackground": "#ffffff1f",
     "statusBar.debuggingBackground": "#cc6633",
     "statusBar.debuggingForeground": "#ffffff",
     "statusBar.noFolderBackground": "#68217a",
     "statusBar.noFolderForeground": "#ffffff",
-    "statusBarItem.remoteBackground": "#16825d",
+    "statusBarItem.remoteBackground": "#bf2020",
     "statusBarItem.remoteForeground": "#ffffff",
     "titleBar.activeBackground": "#dddddd",
     "titleBar.activeForeground": "#333333",

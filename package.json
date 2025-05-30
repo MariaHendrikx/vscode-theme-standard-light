@@ -1,18 +1,23 @@
 {
   "name": "standard-light",
-  "displayName": "standard-light",
-  "description": "",
-  "version": "0.0.1",
+  "displayName": "Standard Light",
+  "description": "A clean and minimal light theme for VS Code.",
+  "version": "0.0.2",
+  "publisher": "mariahendrikx",
   "engines": {
     "vscode": "^1.100.0"
   },
   "categories": [
     "Themes"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MariaHendrikx/vscode-theme-standard-light.git"
+  },
   "contributes": {
     "themes": [
       {
-        "label": "standard-light",
+        "label": "Standard Light",
         "uiTheme": "vs",
         "path": "./themes/standard-light-color-theme.json"
       }
